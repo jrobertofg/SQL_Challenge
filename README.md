@@ -3,6 +3,7 @@ Challenge 9 SQL
 
 
 In this challenge the objective is to design a database model with the tables in csv given. 
+To have the Database please download the zip file and open it so you can have the database sql. 
 
 Platforms used:
   -pgadmin 4 
