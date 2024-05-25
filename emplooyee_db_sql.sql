@@ -19,7 +19,7 @@ CREATE TABLE dept_manager (
 CREATE TABLE departments (
     dept_no CHAR(4),
     dept_name VARCHAR(255) NOT NULL
-    FOREIGN KEY (dept_no) REFERENCES}dept_manager(dept_no)
+    FOREIGN KEY (dept_no) REFERENCES dept_manager(dept_no)
 
 );
 CREATE TABLE dept_emp (
