@@ -2,6 +2,8 @@
 Challenge 9 SQL 
 
 
+To obtain the whole model of creation and queries use the file employee_db_sql
+
 In this challenge the objective is to design a database model with the tables in csv given. 
 To have the Database please download the zip file and open it so you can have the database sql. 
 
@@ -9,7 +11,7 @@ Platforms used:
   -pgadmin 4 
   -Quick DBD app. 
   
-In the first step the idea was to design the model that you will find in the file Quick DBD Model Image.
+In the first step the idea was to design the model that you will find in the file Quick DBD Model Image. 
   For this step an scan of all the data analyze what every file contains and what type of data we are dealing with, it is important to know the variables and types so we can design the model. 
   This will give us what are the primary keys, and what are the fk so we can do the match inside the model. 
 
